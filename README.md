@@ -1,8 +1,8 @@
 # ParkourByJava 2.0
 
-#对原RGB测试版作处如下改动：
-	1.将原程序类2d物理逻辑通过jme.bullet重构为3d
-	2.将原程序扩充根据处理对象的不同重构为5个类：Main,InputAppState,SceneAppState,CubeAppState,CharacterAppState
+对原RGB测试版作处如下改动：
+1.将原程序类2d物理逻辑通过jme.bullet重构为3d
+2.将原程序扩充根据处理对象的不同重构为5个类：Main,InputAppState,SceneAppState,CubeAppState,CharacterAppState
 		Main类：
 			处理与GUI相关的内容及控制游戏整体逻辑
 		InputAppState类：
