@@ -1,6 +1,6 @@
 # ParkourByJava 2.0
 
-对原RGB测试版作处如下改动：
+## 对原RGB测试版作处如下改动：
 
 	1.将原程序类2d物理逻辑通过jme.bullet重构为3d
 
@@ -25,14 +25,14 @@
 		人物模型设置于CharacterAppState.initCharacter
 
 
-必须的改进：
+## 必须的改进：
 
 	1.路面生成规则尽可能不能与原来道路重叠
 
 	2.增加保存/载入/排行榜功能
 
 
-可能的改进：
+## 可能的改进：
 
 	1.能不能锁视角？
 
@@ -43,15 +43,15 @@
 	4.音效和其他视觉效果能不能炫酷一些？
 
 
-关于小游戏植入:
+## 关于小游戏植入:
 
 	目前的想法是并行植入，如果没打过就终止前方路面生成(断头路.jpg),然后角色掉下去(一般游戏剧本),或者停住(傻子才会跳崖)。
 
 
-注意：
+## 注意：
 	
 	注1:路面地基长高宽为（4，2，4）（也可能是一半），请保证您的地基方块中心相对返回节点的位置为0，0，0
 	
 	注2:上传了Parkour3D.zip，各文件相对路径并未改变。但由于代码于JME-SDK中编写，移植到其他IDE时可能会稍花时间配置。
 	
-	注3:需要在Eclipse配置的可以直接从 https://mail.pku.edu.cn/coremail/XT5/jsp/download.jsp?share_link=4F31931667C94B85A33EF0CCAC731017&uid=1700017733%40pku.edu.cn 下载分卷的压缩包。（密码: vRQN）
+	注3:需要在Eclipse配置的可以直接从[北大网盘](https://mail.pku.edu.cn/coremail/XT5/jsp/download.jsp?share_link=4F31931667C94B85A33EF0CCAC731017&uid=1700017733%40pku.edu.cn)下载分卷的压缩包。（密码: vRQN）
