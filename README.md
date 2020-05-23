@@ -53,3 +53,5 @@
 	注1:路面地基长高宽为（4，2，4）（也可能是一半），请保证您的地基方块中心相对返回节点的位置为0，0，0
 	
 	注2:上传了Parkour3D.zip，各文件相对路径并未改变。但由于代码于JME-SDK中编写，移植到其他IDE时可能会稍花时间配置。
+	
+	注3:需要在Eclipse配置的可以直接从 https://mail.pku.edu.cn/coremail/XT5/jsp/download.jsp?	share_link=4F31931667C94B85A33EF0CCAC731017&uid=1700017733%40pku.edu.cn 下载分卷的压缩包。（密码: vRQN）
