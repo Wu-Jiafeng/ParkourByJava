@@ -26,17 +26,25 @@ CharacterAppState类：
 包含物理性质设置的类有：SceneAppState,CubeAppState,CharacterAppState
 
 3.增添音效和人物模型：
+
 音效设置分布于SceneAppState.initNatureSound/ CubeAppState.initSound/ CharacterAppState.initRunSound
+
 人物模型设置于CharacterAppState.initCharacter
 
 必须的改进：
+
 1.路面生成规则尽可能不能与原来道路重叠
+
 2.增加保存/载入/排行榜功能
 		
 可能的改进：
+
 1.能不能锁视角？
+
 2.能不能关卡设置更有趣一些？
+
 3.静态风景如山脉能不能随机增加而不是只有一座在起点？
+
 4.音效和其他视觉效果能不能炫酷一些？
 
 注:路面地基长高宽为（4，2，4）（也可能是一半），请保证您的地基方块中心相对返回节点的位置为0，0，0
