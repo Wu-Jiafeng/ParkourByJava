@@ -1,4 +1,5 @@
 # ParkourByJava 3.0
+This is a course project for Java Programming PKU 2020 spring made by Qianli Shen, Hanrong Liu, Jiafeng Wu and Haoxiang Chen.
 
 ## 对原2.0测试版作处如下改动：  
 	1.修改Main.java使不同appstate之间的交互更为合理；   
